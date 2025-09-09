@@ -1,0 +1,33 @@
+
+body{background-color: antiquewhite;padding: 20px;}
+    h1{color:#222;text-align: center;font-size: 40px;}
+    h1:hover{text-decoration: underline;}
+    p{text-align: center;font-size: 30px;}
+    nav{text-align: center;}
+    nav a{margin: 0 18px;padding: 8px;font-weight: bold;color:#222;border-radius: 5px;font-size: 20px;}
+   nav a:hover{background-color: rgb(130, 220, 220);color:rgb(245, 204, 156)}    
+    hr{margin: 30px auto;width:1000px;border-top:2px solid ;}
+    section{background-color: white;width: 1000px;margin:30px auto;padding: 20px;border-radius: 14px;box-shadow: 0 4px 12px rebeccapurple;}
+    figure img{border-radius: 50%;border:5px solid lightyellow}
+    figcaption{font-size: 30px;}
+    section h2{border-bottom: #e7fafc;}
+    p{font-size: 20px;}
+    article{background-color: #e7fafc;padding: 30px;border-radius:8px;box-shadow: 0 3px 12px hotpink;
+    border-left: 4px solid blue;margin-top: 15px;font-size: 20px;transition: transform 2s;}
+    article:hover{transform: translatex(-10px);}
+    h3{font-size: 30px;}
+    details{margin-top: 7px;}
+    summary{font-size: 15px;font-weight: bold;}
+    a{text-decoration: none;}
+    li{background-color: cornsilk;border-radius: 7px;padding: 10px;margin: 20px 0;text-align: left;font-size: 20px;}
+    ul{list-style-type: none;}
+    ol{list-style-type: none;}
+    li:hover{background-color: lightblue;}
+    spam{font-weight: bold;font-size: 24px;}
+    body p:hover{text-decoration: solid;}
+    form{text-align: center;}
+    input,textarea{width:100%;padding:5px;}
+    form{font-size: 18px;}
+    button{margin-left: 25px;padding:10px;background-color: rgb(209, 209, 62);color:white;font-weight: bold;
+    border-radius: 10px;}
+    button:hover{background-color: rgb(98, 180, 213);}
